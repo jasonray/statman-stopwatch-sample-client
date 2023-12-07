@@ -1,0 +1,21 @@
+{
+  "name": "statman-stopwatch-sample-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "mighty pulpo",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "statman-stopwatch": "^2.0.0"
+  }
+}

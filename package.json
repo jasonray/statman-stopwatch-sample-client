@@ -16,6 +16,6 @@
     "should": "^13.2.3"
   },
   "dependencies": {
-    "statman-stopwatch": "^2.13.0"
+    "statman-stopwatch": "^2.18.1"
   }
 }
